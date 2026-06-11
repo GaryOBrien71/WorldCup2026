@@ -1,0 +1,1 @@
+Data extracted from the uploaded WorldCup2026.xlsm workbook. The app reads these CSV/JSON files at runtime and does not require Excel macros.

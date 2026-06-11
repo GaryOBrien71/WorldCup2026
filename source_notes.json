@@ -1,0 +1,20 @@
+{
+  "source_workbook": "WorldCup2026.xlsm",
+  "sheets_used": [
+    "Players",
+    "Matches R1 - R5",
+    "Group Stage"
+  ],
+  "normalised_team_names": {
+    "Ecudor": "Ecuador",
+    "Tunisa": "Tunisia",
+    "S. Africa": "South Africa",
+    "S. Korea": "South Korea",
+    "Saudi A.": "Saudi Arabia",
+    "Bosnia": "Bosnia and Herzegovina",
+    "Congo DR": "DR Congo",
+    "Ivory Coast": "C\u00f4te d'Ivoire",
+    "Curacao": "Cura\u00e7ao"
+  },
+  "note": "The Streamlit app uses the workbook fixtures/groups and corrects obvious name mismatches so standings calculate cleanly."
+}

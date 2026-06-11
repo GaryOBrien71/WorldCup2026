@@ -1,0 +1,105 @@
+match_id,workbook_row,date,stage,round,group,home,away,home_original,away_original
+M001,2,2026-06-11,Group Stage,Group Stage,A,Mexico,South Africa,Mexico,S. Africa
+M002,3,2026-06-12,Group Stage,Group Stage,A,South Korea,Czechia,S. Korea,Czechia
+M003,4,2026-06-12,Group Stage,Group Stage,B,Canada,Bosnia and Herzegovina,Canada,Bosnia
+M004,5,2026-06-12,Group Stage,Group Stage,D,USA,Paraguay,USA,Paraguay
+M005,6,2026-06-13,Group Stage,Group Stage,C,Haiti,Scotland,Haiti,Scotland
+M006,7,2026-06-13,Group Stage,Group Stage,D,Australia,Turkey,Australia,Turkey
+M007,8,2026-06-13,Group Stage,Group Stage,C,Brazil,Morocco,Brazil,Morocco
+M008,9,2026-06-13,Group Stage,Group Stage,B,Qatar,Switzerland,Qatar,Switzerland
+M009,10,2026-06-14,Group Stage,Group Stage,E,Côte d'Ivoire,Ecuador,Ivory Coast,Ecudor
+M010,11,2026-06-14,Group Stage,Group Stage,E,Germany,Curaçao,Germany,Curacao
+M011,12,2026-06-14,Group Stage,Group Stage,F,Netherlands,Japan,Netherlands,Japan
+M012,13,2026-06-14,Group Stage,Group Stage,F,Sweden,Tunisia,Sweden,Tunisia
+M013,14,2026-06-15,Group Stage,Group Stage,H,Saudi Arabia,Uruguay,Saudi A.,Uruguay
+M014,15,2026-06-15,Group Stage,Group Stage,H,Spain,Cabo Verde,Spain,Cabo Verde
+M015,16,2026-06-15,Group Stage,Group Stage,G,Iran,New Zealand,Iran,New Zealand
+M016,17,2026-06-15,Group Stage,Group Stage,G,Belgium,Egypt,Belgium,Egypt
+M017,18,2026-06-16,Group Stage,Group Stage,I,France,Senegal,France,Senegal
+M018,19,2026-06-16,Group Stage,Group Stage,I,Iraq,Norway,Iraq,Norway
+M019,20,2026-06-16,Group Stage,Group Stage,J,Argentina,Algeria,Argentina,Algeria
+M020,21,2026-06-16,Group Stage,Group Stage,J,Austria,Jordan,Austria,Jordan
+M021,22,2026-06-17,Group Stage,Group Stage,L,Ghana,Panama,Ghana,Panama
+M022,23,2026-06-17,Group Stage,Group Stage,L,England,Croatia,England,Croatia
+M023,24,2026-06-17,Group Stage,Group Stage,K,Portugal,DR Congo,Portugal,Congo DR
+M024,25,2026-06-17,Group Stage,Group Stage,K,Uzbekistan,Colombia,Uzbekistan,Colombia
+M025,26,2026-06-18,Group Stage,Group Stage,A,Czechia,South Africa,Czechia,S. Africa
+M026,27,2026-06-18,Group Stage,Group Stage,B,Switzerland,Bosnia and Herzegovina,Switzerland,Bosnia
+M027,28,2026-06-18,Group Stage,Group Stage,B,Canada,Qatar,Canada,Qatar
+M028,29,2026-06-18,Group Stage,Group Stage,A,Mexico,South Korea,Mexico,S. Korea
+M029,30,2026-06-19,Group Stage,Group Stage,C,Brazil,Haiti,Brazil,Haiti
+M030,31,2026-06-19,Group Stage,Group Stage,C,Scotland,Morocco,Scotland,Morocco
+M031,32,2026-06-19,Group Stage,Group Stage,D,Turkey,Paraguay,Turkey,Paraguay
+M032,33,2026-06-19,Group Stage,Group Stage,D,USA,Australia,USA,Australia
+M033,34,2026-06-20,Group Stage,Group Stage,E,Germany,Côte d'Ivoire,Germany,Ivory Coast
+M034,35,2026-06-20,Group Stage,Group Stage,E,Ecuador,Curaçao,Ecuador,Curacao
+M035,36,2026-06-20,Group Stage,Group Stage,F,Netherlands,Sweden,Netherlands,Sweden
+M036,37,2026-06-20,Group Stage,Group Stage,F,Tunisia,Japan,Tunisia,Japan
+M037,38,2026-06-21,Group Stage,Group Stage,H,Uruguay,Cabo Verde,Uruguay,Cabo Verde
+M038,39,2026-06-21,Group Stage,Group Stage,H,Spain,Saudi Arabia,Spain,Saudi A.
+M039,40,2026-06-21,Group Stage,Group Stage,G,Belgium,Iran,Belgium,Iran
+M040,41,2026-06-21,Group Stage,Group Stage,G,New Zealand,Egypt,New Zealand,Egypt
+M041,42,2026-06-22,Group Stage,Group Stage,I,Norway,Senegal,Norway,Senegal
+M042,43,2026-06-22,Group Stage,Group Stage,I,France,Iraq,France,Iraq
+M043,44,2026-06-22,Group Stage,Group Stage,J,Argentina,Austria,Argentina,Austria
+M044,45,2026-06-22,Group Stage,Group Stage,J,Jordan,Algeria,Jordan,Algeria
+M045,46,2026-06-23,Group Stage,Group Stage,L,England,Ghana,England,Ghana
+M046,47,2026-06-23,Group Stage,Group Stage,L,Panama,Croatia,Panama,Croatia
+M047,48,2026-06-23,Group Stage,Group Stage,K,Portugal,Uzbekistan,Portugal,Uzbekistan
+M048,49,2026-06-23,Group Stage,Group Stage,K,Colombia,DR Congo,Colombia,Congo DR
+M049,50,2026-06-24,Group Stage,Group Stage,C,Scotland,Brazil,Scotland,Brazil
+M050,51,2026-06-24,Group Stage,Group Stage,C,Morocco,Haiti,Morocco,Haiti
+M051,52,2026-06-24,Group Stage,Group Stage,B,Switzerland,Canada,Switzerland,Canada
+M052,53,2026-06-24,Group Stage,Group Stage,B,Bosnia and Herzegovina,Qatar,Bosnia,Qatar
+M053,54,2026-06-24,Group Stage,Group Stage,A,Czechia,Mexico,Czechia,Mexico
+M054,55,2026-06-24,Group Stage,Group Stage,A,South Africa,South Korea,S. Africa,S. Korea
+M055,56,2026-06-25,Group Stage,Group Stage,E,Curaçao,Côte d'Ivoire,Curacao,Ivory Coast
+M056,57,2026-06-25,Group Stage,Group Stage,E,Ecuador,Germany,Ecuador,Germany
+M057,58,2026-06-25,Group Stage,Group Stage,F,Japan,Sweden,Japan,Sweden
+M058,59,2026-06-25,Group Stage,Group Stage,F,Tunisia,Netherlands,Tunisia,Netherlands
+M059,60,2026-06-25,Group Stage,Group Stage,D,Turkey,USA,Turkey,USA
+M060,61,2026-06-25,Group Stage,Group Stage,D,Paraguay,Australia,Paraguay,Australia
+M061,62,2026-06-26,Group Stage,Group Stage,I,Norway,France,Norway,France
+M062,63,2026-06-26,Group Stage,Group Stage,I,Senegal,Iraq,Senegal,Iraq
+M063,64,2026-06-26,Group Stage,Group Stage,G,Egypt,Iran,Egypt,Iran
+M064,65,2026-06-26,Group Stage,Group Stage,G,New Zealand,Belgium,New Zealand,Belgium
+M065,66,2026-06-26,Group Stage,Group Stage,H,Cabo Verde,Saudi Arabia,Cabo Verde,Saudi A.
+M066,67,2026-06-26,Group Stage,Group Stage,H,Uruguay,Spain,Uruguay,Spain
+M067,68,2026-06-27,Group Stage,Group Stage,L,Panama,England,Panama,England
+M068,69,2026-06-27,Group Stage,Group Stage,L,Croatia,Ghana,Croatia,Ghana
+M069,70,2026-06-27,Group Stage,Group Stage,J,Algeria,Austria,Algeria,Austria
+M070,71,2026-06-27,Group Stage,Group Stage,J,Jordan,Argentina,Jordan,Argentina
+M071,72,2026-06-27,Group Stage,Group Stage,K,Colombia,Portugal,Colombia,Portugal
+M072,73,2026-06-27,Group Stage,Group Stage,K,DR Congo,Uzbekistan,Congo DR,Uzbekistan
+M073,74,2026-06-28,Knockout,Round of 32,,,,,
+M074,75,2026-06-29,Knockout,Round of 32,,,,,
+M075,76,2026-06-30,Knockout,Round of 32,,,,,
+M076,77,2026-06-29,Knockout,Round of 32,,,,,
+M077,78,2026-06-30,Knockout,Round of 32,,,,,
+M078,79,2026-06-30,Knockout,Round of 32,,,,,
+M079,80,2026-07-01,Knockout,Round of 32,,,,,
+M080,81,2026-07-01,Knockout,Round of 32,,,,,
+M081,82,2026-07-02,Knockout,Round of 32,,,,,
+M082,83,2026-07-01,Knockout,Round of 32,,,,,
+M083,84,2026-07-03,Knockout,Round of 32,,,,,
+M084,85,2026-07-02,Knockout,Round of 32,,,,,
+M085,86,2026-07-03,Knockout,Round of 32,,,,,
+M086,87,2026-07-03,Knockout,Round of 32,,,,,
+M087,88,2026-07-04,Knockout,Round of 32,,,,,
+M088,89,2026-07-03,Knockout,Round of 32,,,,,
+M089,90,2026-07-04,Knockout,Round of 16,,,,,
+M090,91,2026-07-04,Knockout,Round of 16,,,,,
+M091,92,2026-07-05,Knockout,Round of 16,,,,,
+M092,93,2026-07-06,Knockout,Round of 16,,,,,
+M093,94,2026-07-06,Knockout,Round of 16,,,,,
+M094,95,2026-07-07,Knockout,Round of 16,,,,,
+M095,96,2026-07-07,Knockout,Round of 16,,,,,
+M096,97,2026-07-07,Knockout,Round of 16,,,,,
+M097,98,2026-07-09,Knockout,Quarter-final,,,,,
+M098,99,2026-07-10,Knockout,Quarter-final,,,,,
+M099,100,2026-07-11,Knockout,Quarter-final,,,,,
+M100,101,2026-07-12,Knockout,Quarter-final,,,,,
+M101,102,2026-07-14,Knockout,Semi-final,,,,,
+M102,103,2026-07-15,Knockout,Semi-final,,,,,
+M103,104,2026-07-18,Knockout,Third-place play-off,,,,,
+M104,105,2026-07-19,Knockout,Final,,,,,

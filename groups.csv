@@ -1,0 +1,49 @@
+group,seed,team,workbook_team_name,flag,flag_code
+A,1,South Africa,S. Africa,🇿🇦,za
+A,2,Czechia,Czechia,🇨🇿,cz
+A,3,South Korea,S. Korea,🇰🇷,kr
+A,4,Mexico,Mexico,🇲🇽,mx
+B,1,Canada,Canada,🇨🇦,ca
+B,2,Qatar,Qatar,🇶🇦,qa
+B,3,Switzerland,Switzerland,🇨🇭,ch
+B,4,Bosnia and Herzegovina,Bosnia,🇧🇦,ba
+C,1,Brazil,Brazil,🇧🇷,br
+C,2,Morocco,Morocco,🇲🇦,ma
+C,3,Haiti,Haiti,🇭🇹,ht
+C,4,Scotland,Scotland,🏴,gb-sct
+D,1,Paraguay,Paraguay,🇵🇾,py
+D,2,Australia,Australia,🇦🇺,au
+D,3,Turkey,Turkey,🇹🇷,tr
+D,4,USA,USA,🇺🇸,us
+E,1,Germany,Germany,🇩🇪,de
+E,2,Curaçao,Curacao,🇨🇼,cw
+E,3,Côte d'Ivoire,Ivory Coast,🇨🇮,ci
+E,4,Ecuador,Ecuador,🇪🇨,ec
+F,1,Netherlands,Netherlands,🇳🇱,nl
+F,2,Japan,Japan,🇯🇵,jp
+F,3,Sweden,Sweden,🇸🇪,se
+F,4,Tunisia,Tunisa,🇹🇳,tn
+G,1,Belgium,Belgium,🇧🇪,be
+G,2,Egypt,Egypt,🇪🇬,eg
+G,3,Iran,Iran,🇮🇷,ir
+G,4,New Zealand,New Zealand,🇳🇿,nz
+H,1,Spain,Spain,🇪🇸,es
+H,2,Cabo Verde,Cabo Verde,🇨🇻,cv
+H,3,Saudi Arabia,Saudi A.,🇸🇦,sa
+H,4,Uruguay,Uruguay,🇺🇾,uy
+I,1,France,France,🇫🇷,fr
+I,2,Senegal,Senegal,🇸🇳,sn
+I,3,Iraq,Iraq,🇮🇶,iq
+I,4,Norway,Norway,🇳🇴,no
+J,1,Argentina,Argentina,🇦🇷,ar
+J,2,Algeria,Algeria,🇩🇿,dz
+J,3,Austria,Austria,🇦🇹,at
+J,4,Jordan,Jordan,🇯🇴,jo
+K,1,Portugal,Portugal,🇵🇹,pt
+K,2,DR Congo,Congo DR,🇨🇩,cd
+K,3,Uzbekistan,Uzbekistan,🇺🇿,uz
+K,4,Colombia,Colombia,🇨🇴,co
+L,1,England,England,🏴,gb-eng
+L,2,Croatia,Croatia,🇭🇷,hr
+L,3,Ghana,Ghana,🇬🇭,gh
+L,4,Panama,Panama,🇵🇦,pa
