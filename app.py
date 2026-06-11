@@ -15,8 +15,8 @@ except Exception:  # pragma: no cover - app still works without plotly
     px = None
 
 BASE_DIR = Path(__file__).parent
-DATA_DIR = BASE_DIR / "data"
-ASSET_DIR = BASE_DIR / "assets"
+DATA_DIR = BASE_DIR / "data" if (BASE_DIR / "data").exists() else BASE_DIR
+ASSET_DIR = BASE_DIR / "assets" if (BASE_DIR / "assets").exists() else BASE_DIR
 
 st.set_page_config(
     page_title="World Cup 2026 Predictor",
