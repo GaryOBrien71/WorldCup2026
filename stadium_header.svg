@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-label="Football stadium lights">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06162f"/><stop offset=".55" stop-color="#0f3b69"/><stop offset="1" stop-color="#062e24"/></linearGradient>
+    <radialGradient id="light" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <ellipse cx="210" cy="78" rx="210" ry="50" fill="url(#light)" opacity=".9"/>
+  <ellipse cx="990" cy="78" rx="210" ry="50" fill="url(#light)" opacity=".9"/>
+  <path d="M0 246c150-70 1050-70 1200 0v114H0z" fill="#031b15"/>
+  <path d="M90 250c190-72 830-72 1020 0" fill="none" stroke="#34d399" stroke-width="6" opacity=".55"/>
+  <path d="M160 325h880" stroke="#fff" stroke-width="5" opacity=".5"/>
+  <circle cx="600" cy="325" r="68" fill="none" stroke="#fff" stroke-width="5" opacity=".45"/>
+  <g fill="#facc15" opacity=".95">
+    <circle cx="150" cy="38" r="9"/><circle cx="185" cy="42" r="7"/><circle cx="1020" cy="38" r="9"/><circle cx="1055" cy="42" r="7"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 360" role="img" aria-label="Gold trophy icon">
+  <defs><linearGradient id="t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff7ad"/><stop offset=".52" stop-color="#facc15"/><stop offset="1" stop-color="#b45309"/></linearGradient></defs>
+  <rect width="320" height="360" rx="32" fill="#052e5c"/>
+  <path d="M96 46h128c-4 60-12 117-45 152l-5 56h-28l-5-56C108 163 100 106 96 46z" fill="url(#t)"/>
+  <path d="M96 74H54c1 54 32 89 75 96l-8-33c-22-9-36-28-41-39h20zM224 74h42c-1 54-32 89-75 96l8-33c22-9 36-28 41-39h-20z" fill="url(#t)"/>
+  <rect x="111" y="253" width="98" height="34" rx="8" fill="url(#t)"/>
+  <rect x="79" y="289" width="162" height="38" rx="10" fill="url(#t)"/>
+  <circle cx="160" cy="117" r="44" fill="#fff" opacity=".92"/><path d="M160 77l12 25 27 4-20 19 5 27-24-13-24 13 5-27-20-19 27-4z" fill="#052e5c"/>
+</svg>
